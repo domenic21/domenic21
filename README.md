@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Domenic Arias V
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on projects focuse on front end dev
+- 💞️ I’m looking to collaborate on projects focused on front end dev
 - 📫 How to reach me.. directly to email domenicarias21@gmail.com 
 
 <!---
