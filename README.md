@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Domenic Arias V
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning full stack development, react
-- 💞️ I’m looking to collaborate on projects focused on front end dev
+- 🌱 I’m currently learning full stack development, react, c#, asp.net, AI 
+- 💞️ I’m looking to collaborate on projects focused on full stack apps.
 - 📫 How to reach me.. directly to email domenicarias21@gmail.com 
 
 <!---
