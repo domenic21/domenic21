@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning full stack development, react, c#, asp.net, AI 
 - 💞️ I’m looking to collaborate on projects focused on full stack apps.
 - 📫 How to reach me.. directly to email domenicarias21@gmail.com
+
+  ### :hammer_and_wrench: Languages and Tools :
   <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -22,6 +24,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=domenic21&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domenic21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 domenic21/domenic21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
