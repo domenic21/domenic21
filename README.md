@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-### :fire: My Stats :
+ :fire: My Stats :
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=domenic21&theme=dark&background=000000"/>
 </div>
